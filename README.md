@@ -18,12 +18,10 @@ Seamless payments, complete visibility.
 - Java 21
 - Spring Boot 3
 - Spring Cloud
-- PostgreSQL
+- MySQL
 - Kafka
 - Redis
 - Docker
-- Grafana
-- Prometheus
 
 ## Setup Instructions
 
